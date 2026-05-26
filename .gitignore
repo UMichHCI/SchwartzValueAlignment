@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LoRA adapter artifacts
+/lora/lora_parameters/
+/lora/lora_parameters_gold_gpt4o/
